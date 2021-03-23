@@ -1,0 +1,1311 @@
+{
+    "data_path": "../mnist/warrior4",
+    "test": [
+        {
+            "input": "test/input/001.png"
+        },
+        {
+            "input": "test/input/002.png"
+        },
+        {
+            "input": "test/input/003.png"
+        },
+        {
+            "input": "test/input/004.png"
+        },
+        {
+            "input": "test/input/005.png"
+        },
+        {
+            "input": "test/input/006.png"
+        },
+        {
+            "input": "test/input/007.png"
+        },
+        {
+            "input": "test/input/008.png"
+        },
+        {
+            "input": "test/input/009.png"
+        },
+        {
+            "input": "test/input/010.png"
+        },
+        {
+            "input": "test/input/011.png"
+        },
+        {
+            "input": "test/input/012.png"
+        },
+        {
+            "input": "test/input/013.png"
+        },
+        {
+            "input": "test/input/014.png"
+        },
+        {
+            "input": "test/input/015.png"
+        },
+        {
+            "input": "test/input/016.png"
+        },
+        {
+            "input": "test/input/017.png"
+        },
+        {
+            "input": "test/input/018.png"
+        },
+        {
+            "input": "test/input/019.png"
+        },
+        {
+            "input": "test/input/020.png"
+        },
+        {
+            "input": "test/input/022.png"
+        },
+        {
+            "input": "test/input/023.png"
+        },
+        {
+            "input": "test/input/024.png"
+        },
+        {
+            "input": "test/input/025.png"
+        },
+        {
+            "input": "test/input/026.png"
+        },
+        {
+            "input": "test/input/027.png"
+        },
+        {
+            "input": "test/input/028.png"
+        },
+        {
+            "input": "test/input/029.png"
+        },
+        {
+            "input": "test/input/030.png"
+        },
+        {
+            "input": "test/input/031.png"
+        },
+        {
+            "input": "test/input/032.png"
+        },
+        {
+            "input": "test/input/033.png"
+        },
+        {
+            "input": "test/input/034.png"
+        },
+        {
+            "input": "test/input/035.png"
+        },
+        {
+            "input": "test/input/036.png"
+        },
+        {
+            "input": "test/input/037.png"
+        },
+        {
+            "input": "test/input/038.png"
+        },
+        {
+            "input": "test/input/039.png"
+        },
+        {
+            "input": "test/input/040.png"
+        },
+        {
+            "input": "test/input/041.png"
+        },
+        {
+            "input": "test/input/043.png"
+        },
+        {
+            "input": "test/input/044.png"
+        },
+        {
+            "input": "test/input/045.png"
+        },
+        {
+            "input": "test/input/046.png"
+        },
+        {
+            "input": "test/input/047.png"
+        },
+        {
+            "input": "test/input/048.png"
+        },
+        {
+            "input": "test/input/049.png"
+        },
+        {
+            "input": "test/input/050.png"
+        },
+        {
+            "input": "test/input/051.png"
+        },
+        {
+            "input": "test/input/052.png"
+        },
+        {
+            "input": "test/input/053.png"
+        },
+        {
+            "input": "test/input/054.png"
+        },
+        {
+            "input": "test/input/055.png"
+        },
+        {
+            "input": "test/input/056.png"
+        },
+        {
+            "input": "test/input/057.png"
+        },
+        {
+            "input": "test/input/058.png"
+        },
+        {
+            "input": "test/input/059.png"
+        },
+        {
+            "input": "test/input/060.png"
+        },
+        {
+            "input": "test/input/061.png"
+        },
+        {
+            "input": "test/input/062.png"
+        },
+        {
+            "input": "test/input/064.png"
+        },
+        {
+            "input": "test/input/065.png"
+        },
+        {
+            "input": "test/input/066.png"
+        },
+        {
+            "input": "test/input/067.png"
+        },
+        {
+            "input": "test/input/068.png"
+        },
+        {
+            "input": "test/input/069.png"
+        },
+        {
+            "input": "test/input/070.png"
+        },
+        {
+            "input": "test/input/071.png"
+        },
+        {
+            "input": "test/input/072.png"
+        },
+        {
+            "input": "test/input/073.png"
+        },
+        {
+            "input": "test/input/074.png"
+        },
+        {
+            "input": "test/input/075.png"
+        },
+        {
+            "input": "test/input/076.png"
+        },
+        {
+            "input": "test/input/077.png"
+        },
+        {
+            "input": "test/input/078.png"
+        },
+        {
+            "input": "test/input/079.png"
+        },
+        {
+            "input": "test/input/080.png"
+        },
+        {
+            "input": "test/input/081.png"
+        },
+        {
+            "input": "test/input/082.png"
+        },
+        {
+            "input": "test/input/083.png"
+        },
+        {
+            "input": "test/input/085.png"
+        },
+        {
+            "input": "test/input/086.png"
+        },
+        {
+            "input": "test/input/087.png"
+        },
+        {
+            "input": "test/input/088.png"
+        },
+        {
+            "input": "test/input/089.png"
+        },
+        {
+            "input": "test/input/090.png"
+        },
+        {
+            "input": "test/input/091.png"
+        },
+        {
+            "input": "test/input/092.png"
+        },
+        {
+            "input": "test/input/093.png"
+        },
+        {
+            "input": "test/input/094.png"
+        },
+        {
+            "input": "test/input/095.png"
+        },
+        {
+            "input": "test/input/096.png"
+        },
+        {
+            "input": "test/input/097.png"
+        },
+        {
+            "input": "test/input/098.png"
+        },
+        {
+            "input": "test/input/099.png"
+        },
+        {
+            "input": "test/input/100.png"
+        },
+        {
+            "input": "test/input/101.png"
+        },
+        {
+            "input": "test/input/102.png"
+        },
+        {
+            "input": "test/input/103.png"
+        },
+        {
+            "input": "test/input/104.png"
+        },
+        {
+            "input": "test/input/106.png"
+        },
+        {
+            "input": "test/input/107.png"
+        },
+        {
+            "input": "test/input/108.png"
+        },
+        {
+            "input": "test/input/109.png"
+        },
+        {
+            "input": "test/input/110.png"
+        },
+        {
+            "input": "test/input/111.png"
+        },
+        {
+            "input": "test/input/112.png"
+        },
+        {
+            "input": "test/input/113.png"
+        },
+        {
+            "input": "test/input/114.png"
+        },
+        {
+            "input": "test/input/115.png"
+        },
+        {
+            "input": "test/input/116.png"
+        },
+        {
+            "input": "test/input/117.png"
+        },
+        {
+            "input": "test/input/118.png"
+        },
+        {
+            "input": "test/input/119.png"
+        },
+        {
+            "input": "test/input/120.png"
+        },
+        {
+            "input": "test/input/121.png"
+        },
+        {
+            "input": "test/input/122.png"
+        },
+        {
+            "input": "test/input/123.png"
+        },
+        {
+            "input": "test/input/124.png"
+        },
+        {
+            "input": "test/input/125.png"
+        },
+        {
+            "input": "test/input/021.png"
+        },
+        {
+            "input": "test/input/042.png"
+        },
+        {
+            "input": "test/input/063.png"
+        },
+        {
+            "input": "test/input/084.png"
+        },
+        {
+            "input": "test/input/105.png"
+        },
+        {
+            "input": "test/input/126.png"
+        },
+        {
+            "input": "test/input/147.png"
+        },
+        {
+            "input": "test/input/168.png"
+        },
+        {
+            "input": "test/input/189.png"
+        },
+        {
+            "input": "test/input/210.png"
+        },
+        {
+            "input": "test/input/231.png"
+        },
+        {
+            "input": "test/input/252.png"
+        },
+        {
+            "input": "test/input/273.png"
+        },
+        {
+            "input": "test/input/294.png"
+        },
+        {
+            "input": "test/input/315.png"
+        },
+        {
+            "input": "test/input/336.png"
+        },
+        {
+            "input": "test/input/357.png"
+        },
+        {
+            "input": "test/input/378.png"
+        },
+        {
+            "input": "test/input/399.png"
+        },
+        {
+            "input": "test/input/127.png"
+        },
+        {
+            "input": "test/input/128.png"
+        },
+        {
+            "input": "test/input/129.png"
+        },
+        {
+            "input": "test/input/130.png"
+        },
+        {
+            "input": "test/input/131.png"
+        },
+        {
+            "input": "test/input/132.png"
+        },
+        {
+            "input": "test/input/133.png"
+        },
+        {
+            "input": "test/input/134.png"
+        },
+        {
+            "input": "test/input/135.png"
+        },
+        {
+            "input": "test/input/136.png"
+        },
+        {
+            "input": "test/input/137.png"
+        },
+        {
+            "input": "test/input/138.png"
+        },
+        {
+            "input": "test/input/139.png"
+        },
+        {
+            "input": "test/input/140.png"
+        },
+        {
+            "input": "test/input/141.png"
+        },
+        {
+            "input": "test/input/142.png"
+        },
+        {
+            "input": "test/input/143.png"
+        },
+        {
+            "input": "test/input/144.png"
+        },
+        {
+            "input": "test/input/145.png"
+        },
+        {
+            "input": "test/input/146.png"
+        },
+        {
+            "input": "test/input/148.png"
+        },
+        {
+            "input": "test/input/149.png"
+        },
+        {
+            "input": "test/input/150.png"
+        },
+        {
+            "input": "test/input/151.png"
+        },
+        {
+            "input": "test/input/152.png"
+        },
+        {
+            "input": "test/input/153.png"
+        },
+        {
+            "input": "test/input/154.png"
+        },
+        {
+            "input": "test/input/155.png"
+        },
+        {
+            "input": "test/input/156.png"
+        },
+        {
+            "input": "test/input/157.png"
+        },
+        {
+            "input": "test/input/158.png"
+        },
+        {
+            "input": "test/input/159.png"
+        },
+        {
+            "input": "test/input/160.png"
+        },
+        {
+            "input": "test/input/161.png"
+        },
+        {
+            "input": "test/input/162.png"
+        },
+        {
+            "input": "test/input/163.png"
+        },
+        {
+            "input": "test/input/164.png"
+        },
+        {
+            "input": "test/input/165.png"
+        },
+        {
+            "input": "test/input/166.png"
+        },
+        {
+            "input": "test/input/167.png"
+        },
+        {
+            "input": "test/input/169.png"
+        },
+        {
+            "input": "test/input/170.png"
+        },
+        {
+            "input": "test/input/171.png"
+        },
+        {
+            "input": "test/input/172.png"
+        },
+        {
+            "input": "test/input/173.png"
+        },
+        {
+            "input": "test/input/174.png"
+        },
+        {
+            "input": "test/input/175.png"
+        },
+        {
+            "input": "test/input/176.png"
+        },
+        {
+            "input": "test/input/177.png"
+        },
+        {
+            "input": "test/input/178.png"
+        },
+        {
+            "input": "test/input/179.png"
+        },
+        {
+            "input": "test/input/180.png"
+        },
+        {
+            "input": "test/input/181.png"
+        },
+        {
+            "input": "test/input/182.png"
+        },
+        {
+            "input": "test/input/183.png"
+        },
+        {
+            "input": "test/input/184.png"
+        },
+        {
+            "input": "test/input/185.png"
+        },
+        {
+            "input": "test/input/186.png"
+        },
+        {
+            "input": "test/input/187.png"
+        },
+        {
+            "input": "test/input/188.png"
+        },
+        {
+            "input": "test/input/190.png"
+        },
+        {
+            "input": "test/input/191.png"
+        },
+        {
+            "input": "test/input/192.png"
+        },
+        {
+            "input": "test/input/193.png"
+        },
+        {
+            "input": "test/input/194.png"
+        },
+        {
+            "input": "test/input/195.png"
+        },
+        {
+            "input": "test/input/196.png"
+        },
+        {
+            "input": "test/input/197.png"
+        },
+        {
+            "input": "test/input/198.png"
+        },
+        {
+            "input": "test/input/199.png"
+        },
+        {
+            "input": "test/input/200.png"
+        },
+        {
+            "input": "test/input/201.png"
+        },
+        {
+            "input": "test/input/202.png"
+        },
+        {
+            "input": "test/input/203.png"
+        },
+        {
+            "input": "test/input/204.png"
+        },
+        {
+            "input": "test/input/205.png"
+        },
+        {
+            "input": "test/input/206.png"
+        },
+        {
+            "input": "test/input/207.png"
+        },
+        {
+            "input": "test/input/208.png"
+        },
+        {
+            "input": "test/input/209.png"
+        },
+        {
+            "input": "test/input/211.png"
+        },
+        {
+            "input": "test/input/212.png"
+        },
+        {
+            "input": "test/input/213.png"
+        },
+        {
+            "input": "test/input/214.png"
+        },
+        {
+            "input": "test/input/215.png"
+        },
+        {
+            "input": "test/input/216.png"
+        },
+        {
+            "input": "test/input/217.png"
+        },
+        {
+            "input": "test/input/218.png"
+        },
+        {
+            "input": "test/input/219.png"
+        },
+        {
+            "input": "test/input/220.png"
+        },
+        {
+            "input": "test/input/221.png"
+        },
+        {
+            "input": "test/input/222.png"
+        },
+        {
+            "input": "test/input/223.png"
+        },
+        {
+            "input": "test/input/224.png"
+        },
+        {
+            "input": "test/input/225.png"
+        },
+        {
+            "input": "test/input/226.png"
+        },
+        {
+            "input": "test/input/227.png"
+        },
+        {
+            "input": "test/input/228.png"
+        },
+        {
+            "input": "test/input/229.png"
+        },
+        {
+            "input": "test/input/230.png"
+        },
+        {
+            "input": "test/input/232.png"
+        },
+        {
+            "input": "test/input/233.png"
+        },
+        {
+            "input": "test/input/234.png"
+        },
+        {
+            "input": "test/input/235.png"
+        },
+        {
+            "input": "test/input/236.png"
+        },
+        {
+            "input": "test/input/237.png"
+        },
+        {
+            "input": "test/input/238.png"
+        },
+        {
+            "input": "test/input/239.png"
+        },
+        {
+            "input": "test/input/240.png"
+        },
+        {
+            "input": "test/input/241.png"
+        },
+        {
+            "input": "test/input/242.png"
+        },
+        {
+            "input": "test/input/243.png"
+        },
+        {
+            "input": "test/input/244.png"
+        },
+        {
+            "input": "test/input/245.png"
+        },
+        {
+            "input": "test/input/246.png"
+        },
+        {
+            "input": "test/input/247.png"
+        },
+        {
+            "input": "test/input/248.png"
+        },
+        {
+            "input": "test/input/249.png"
+        },
+        {
+            "input": "test/input/250.png"
+        },
+        {
+            "input": "test/input/251.png"
+        },
+        {
+            "input": "test/input/253.png"
+        },
+        {
+            "input": "test/input/254.png"
+        },
+        {
+            "input": "test/input/255.png"
+        },
+        {
+            "input": "test/input/256.png"
+        },
+        {
+            "input": "test/input/257.png"
+        },
+        {
+            "input": "test/input/258.png"
+        },
+        {
+            "input": "test/input/259.png"
+        },
+        {
+            "input": "test/input/260.png"
+        },
+        {
+            "input": "test/input/261.png"
+        },
+        {
+            "input": "test/input/262.png"
+        },
+        {
+            "input": "test/input/263.png"
+        },
+        {
+            "input": "test/input/264.png"
+        },
+        {
+            "input": "test/input/265.png"
+        },
+        {
+            "input": "test/input/266.png"
+        },
+        {
+            "input": "test/input/267.png"
+        },
+        {
+            "input": "test/input/268.png"
+        },
+        {
+            "input": "test/input/269.png"
+        },
+        {
+            "input": "test/input/270.png"
+        },
+        {
+            "input": "test/input/271.png"
+        },
+        {
+            "input": "test/input/272.png"
+        },
+        {
+            "input": "test/input/274.png"
+        },
+        {
+            "input": "test/input/275.png"
+        },
+        {
+            "input": "test/input/276.png"
+        },
+        {
+            "input": "test/input/277.png"
+        },
+        {
+            "input": "test/input/278.png"
+        },
+        {
+            "input": "test/input/279.png"
+        },
+        {
+            "input": "test/input/280.png"
+        },
+        {
+            "input": "test/input/281.png"
+        },
+        {
+            "input": "test/input/282.png"
+        },
+        {
+            "input": "test/input/283.png"
+        },
+        {
+            "input": "test/input/284.png"
+        },
+        {
+            "input": "test/input/285.png"
+        },
+        {
+            "input": "test/input/286.png"
+        },
+        {
+            "input": "test/input/287.png"
+        },
+        {
+            "input": "test/input/288.png"
+        },
+        {
+            "input": "test/input/289.png"
+        },
+        {
+            "input": "test/input/290.png"
+        },
+        {
+            "input": "test/input/291.png"
+        },
+        {
+            "input": "test/input/292.png"
+        },
+        {
+            "input": "test/input/293.png"
+        },
+        {
+            "input": "test/input/295.png"
+        },
+        {
+            "input": "test/input/296.png"
+        },
+        {
+            "input": "test/input/297.png"
+        },
+        {
+            "input": "test/input/298.png"
+        },
+        {
+            "input": "test/input/299.png"
+        },
+        {
+            "input": "test/input/300.png"
+        },
+        {
+            "input": "test/input/301.png"
+        },
+        {
+            "input": "test/input/302.png"
+        },
+        {
+            "input": "test/input/303.png"
+        },
+        {
+            "input": "test/input/304.png"
+        },
+        {
+            "input": "test/input/305.png"
+        },
+        {
+            "input": "test/input/306.png"
+        },
+        {
+            "input": "test/input/307.png"
+        },
+        {
+            "input": "test/input/308.png"
+        },
+        {
+            "input": "test/input/309.png"
+        },
+        {
+            "input": "test/input/310.png"
+        },
+        {
+            "input": "test/input/311.png"
+        },
+        {
+            "input": "test/input/312.png"
+        },
+        {
+            "input": "test/input/313.png"
+        },
+        {
+            "input": "test/input/314.png"
+        },
+        {
+            "input": "test/input/316.png"
+        },
+        {
+            "input": "test/input/317.png"
+        },
+        {
+            "input": "test/input/318.png"
+        },
+        {
+            "input": "test/input/319.png"
+        },
+        {
+            "input": "test/input/320.png"
+        },
+        {
+            "input": "test/input/321.png"
+        },
+        {
+            "input": "test/input/322.png"
+        },
+        {
+            "input": "test/input/323.png"
+        },
+        {
+            "input": "test/input/324.png"
+        },
+        {
+            "input": "test/input/325.png"
+        },
+        {
+            "input": "test/input/326.png"
+        },
+        {
+            "input": "test/input/327.png"
+        },
+        {
+            "input": "test/input/328.png"
+        },
+        {
+            "input": "test/input/329.png"
+        },
+        {
+            "input": "test/input/330.png"
+        },
+        {
+            "input": "test/input/331.png"
+        },
+        {
+            "input": "test/input/332.png"
+        },
+        {
+            "input": "test/input/333.png"
+        },
+        {
+            "input": "test/input/334.png"
+        },
+        {
+            "input": "test/input/335.png"
+        },
+        {
+            "input": "test/input/337.png"
+        },
+        {
+            "input": "test/input/338.png"
+        },
+        {
+            "input": "test/input/339.png"
+        },
+        {
+            "input": "test/input/340.png"
+        },
+        {
+            "input": "test/input/341.png"
+        },
+        {
+            "input": "test/input/342.png"
+        },
+        {
+            "input": "test/input/343.png"
+        },
+        {
+            "input": "test/input/344.png"
+        },
+        {
+            "input": "test/input/345.png"
+        },
+        {
+            "input": "test/input/346.png"
+        },
+        {
+            "input": "test/input/347.png"
+        },
+        {
+            "input": "test/input/348.png"
+        },
+        {
+            "input": "test/input/349.png"
+        },
+        {
+            "input": "test/input/350.png"
+        },
+        {
+            "input": "test/input/351.png"
+        },
+        {
+            "input": "test/input/352.png"
+        },
+        {
+            "input": "test/input/353.png"
+        },
+        {
+            "input": "test/input/354.png"
+        },
+        {
+            "input": "test/input/355.png"
+        },
+        {
+            "input": "test/input/356.png"
+        },
+        {
+            "input": "test/input/358.png"
+        },
+        {
+            "input": "test/input/359.png"
+        },
+        {
+            "input": "test/input/360.png"
+        },
+        {
+            "input": "test/input/361.png"
+        },
+        {
+            "input": "test/input/362.png"
+        },
+        {
+            "input": "test/input/363.png"
+        },
+        {
+            "input": "test/input/364.png"
+        },
+        {
+            "input": "test/input/365.png"
+        },
+        {
+            "input": "test/input/366.png"
+        },
+        {
+            "input": "test/input/367.png"
+        },
+        {
+            "input": "test/input/368.png"
+        },
+        {
+            "input": "test/input/369.png"
+        },
+        {
+            "input": "test/input/370.png"
+        },
+        {
+            "input": "test/input/371.png"
+        },
+        {
+            "input": "test/input/372.png"
+        },
+        {
+            "input": "test/input/373.png"
+        },
+        {
+            "input": "test/input/374.png"
+        },
+        {
+            "input": "test/input/375.png"
+        },
+        {
+            "input": "test/input/376.png"
+        },
+        {
+            "input": "test/input/377.png"
+        },
+        {
+            "input": "test/input/379.png"
+        },
+        {
+            "input": "test/input/380.png"
+        },
+        {
+            "input": "test/input/381.png"
+        },
+        {
+            "input": "test/input/382.png"
+        },
+        {
+            "input": "test/input/383.png"
+        },
+        {
+            "input": "test/input/384.png"
+        },
+        {
+            "input": "test/input/385.png"
+        },
+        {
+            "input": "test/input/386.png"
+        },
+        {
+            "input": "test/input/387.png"
+        },
+        {
+            "input": "test/input/388.png"
+        },
+        {
+            "input": "test/input/389.png"
+        },
+        {
+            "input": "test/input/390.png"
+        },
+        {
+            "input": "test/input/391.png"
+        },
+        {
+            "input": "test/input/392.png"
+        },
+        {
+            "input": "test/input/393.png"
+        },
+        {
+            "input": "test/input/394.png"
+        },
+        {
+            "input": "test/input/395.png"
+        },
+        {
+            "input": "test/input/396.png"
+        },
+        {
+            "input": "test/input/397.png"
+        },
+        {
+            "input": "test/input/398.png"
+        },
+        {
+            "input": "test/input/400.png"
+        },
+        {
+            "input": "test/input/401.png"
+        },
+        {
+            "input": "test/input/402.png"
+        },
+        {
+            "input": "test/input/403.png"
+        },
+        {
+            "input": "test/input/404.png"
+        },
+        {
+            "input": "test/input/405.png"
+        },
+        {
+            "input": "test/input/406.png"
+        },
+        {
+            "input": "test/input/407.png"
+        },
+        {
+            "input": "test/input/408.png"
+        },
+        {
+            "input": "test/input/409.png"
+        },
+        {
+            "input": "test/input/410.png"
+        },
+        {
+            "input": "test/input/411.png"
+        },
+        {
+            "input": "test/input/412.png"
+        },
+        {
+            "input": "test/input/413.png"
+        },
+        {
+            "input": "test/input/414.png"
+        },
+        {
+            "input": "test/input/415.png"
+        },
+        {
+            "input": "test/input/416.png"
+        },
+        {
+            "input": "test/input/417.png"
+        },
+        {
+            "input": "test/input/418.png"
+        },
+        {
+            "input": "test/input/419.png"
+        },
+        {
+            "input": "test/input/420.png"
+        },
+        {
+            "input": "test/input/421.png"
+        },
+        {
+            "input": "test/input/422.png"
+        },
+        {
+            "input": "test/input/423.png"
+        },
+        {
+            "input": "test/input/424.png"
+        },
+        {
+            "input": "test/input/425.png"
+        },
+        {
+            "input": "test/input/426.png"
+        },
+        {
+            "input": "test/input/427.png"
+        },
+        {
+            "input": "test/input/428.png"
+        },
+        {
+            "input": "test/input/429.png"
+        },
+        {
+            "input": "test/input/430.png"
+        },
+        {
+            "input": "test/input/431.png"
+        },
+        {
+            "input": "test/input/432.png"
+        },
+        {
+            "input": "test/input/433.png"
+        }
+    ],
+    "training": [
+        {
+            "input": "training/input/001.png",
+            "mask": "training/mask/001.png",
+            "target": "training/target/001.png"
+        }
+    ]
+}

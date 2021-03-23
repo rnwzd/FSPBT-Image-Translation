@@ -1,0 +1,4 @@
+data/*
+models/*
+lightning_logs/*
+output/*
