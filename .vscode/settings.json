@@ -1,7 +1,7 @@
 {
     "python.pythonPath": "/home/rnwzd/.conda/envs/FSPBT/bin/python",
     "spellright.language": [
-        "en_GB"
+        "en"
     ],
     "spellright.documentTypes": [
         "markdown",
