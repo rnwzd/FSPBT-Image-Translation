@@ -4,8 +4,6 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 
@@ -57,12 +55,22 @@ conda activate FSPBT
 conda install -y -c pytorch -c conda-forge pytorch torchvision cudatoolkit   pytorch-lightning
 ```
 
+### Demo data
+
+To download the demo data (on Linux)
+```
+./download_data.sh
+```
+
+Alternatively you can download it from  https://drive.google.com/file/d/1WI71nYP-z0mfDpuUW36s3sswpwRwwfrN/view
+and extract in the "data" folder
 
 ### Training
 
 You can just start
 
 ```
+conda activate FSPBT
 python train.py
 ```
 settings for data_path are inside the file itself
@@ -87,6 +95,7 @@ tensorboard --logdir lightning_logs/
 You can just start
 
 ```
+conda activate FSPBT
 python eval.py
 ```
 
