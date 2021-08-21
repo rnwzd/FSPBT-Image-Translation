@@ -46,12 +46,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Tested with Python 3.9, pytorch 1.8.0 on Ubuntu 20.04 using conda
+Tested with Python 3.9, pytorch 1.9.0 on Ubuntu 20.04 using conda
 
 ```
 conda create -n FSPBT -y
 conda activate FSPBT
-conda install -y -c pytorch -c conda-forge pytorch torchvision cudatoolkit   pytorch-lightning
+conda install -y -c pytorch -c conda-forge pytorch==1.9.0 torchvision==0.10.0 cudatoolkit==11.1.1 pytorch-lightning==1.4.2
 ```
 
 ### Demo data and pretrained models

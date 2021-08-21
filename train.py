@@ -39,15 +39,15 @@ if __name__ == "__main__":
     # model = LitModel.load_from_checkpoint(model_save_path/"latest.ckpt")
     
     trainer = pl.Trainer(
-        gpus=-1,
+        gpus=-1, 
         precision=16,
-        max_epochs=100,
+        max_epochs=10,
         log_every_n_steps=8,
         limit_train_batches=1.0,
         limit_val_batches=1.0,
         limit_test_batches=1.0,
         check_val_every_n_epoch=20,
-        reload_dataloaders_every_epoch=True,
+        reload_dataloaders_every_n_epochs=1,
         profiler=profiler,
         logger=logger,
         callbacks=callbacks,
