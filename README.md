@@ -55,9 +55,9 @@ conda activate FSPBT
 conda install -y -c pytorch -c conda-forge pytorch torchvision cudatoolkit   pytorch-lightning
 ```
 
-### Demo data
+### Demo data and pretrained models
 
-To download the demo data (on Linux)
+To download the demo data along with pretrained models (on Linux)
 ```
 ./download_data.sh
 ```
