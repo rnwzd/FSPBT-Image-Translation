@@ -9,16 +9,16 @@ from tqdm import tqdm
 
 
 from train import data_path, model_save_path
-# you can overwrite data_path here
 
+# you can overwrite data_path here
 output_dir = data_path/'output'
 input_dir = data_path/'input'
 
+# Change these depending on your hardware, has to match training settings
+device = 'cuda' 
+dtype = torch.float16 
 
 generator = torch.load(model_save_path/"generator.pt")
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
-dtype = torch.float16
-
 generator.eval()
 generator.to(device, dtype)
 
