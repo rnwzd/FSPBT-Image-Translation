@@ -41,8 +41,7 @@ https://pytorch-lightning.readthedocs.io/en/latest/
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 
 ### Installing
@@ -55,9 +54,9 @@ conda activate FSPBT
 conda install -y -c pytorch -c conda-forge pytorch torchvision cudatoolkit   pytorch-lightning
 ```
 
-### Demo data
+### Demo data and pretrained models
 
-To download the demo data (on Linux)
+To download the demo data along with pretrained models (on Linux)
 ```
 ./download_data.sh
 ```

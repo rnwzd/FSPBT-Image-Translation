@@ -58,4 +58,4 @@ if __name__ == "__main__":
 
     trainer.save_checkpoint(model_save_path/"latest.ckpt")
     torch.save(model.generator, model_save_path/"generator.pt")
-    torch.save(model.discriminator, model_save_path/"dicriminator.pt")
+    torch.save(model.discriminator, model_save_path/"discriminator.pt")
