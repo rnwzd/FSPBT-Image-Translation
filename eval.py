@@ -18,6 +18,7 @@ input_dir = data_path/'input'
 device = 'cuda' 
 dtype = torch.float16 
 
+
 generator = torch.load(model_save_path/"generator.pt")
 generator.eval()
 generator.to(device, dtype)
